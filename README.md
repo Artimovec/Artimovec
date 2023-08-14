@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Artimovec Artem  
 - 👀 I’m interested in IT
-- 🌱 I’m curre
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 artimovec@gmail.com
 
 <!---
 Artimovec/Artimovec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
